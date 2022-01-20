@@ -1,0 +1,2 @@
+Write the steps, flowchart and pseudocode of question:
+Print the table of any number (using for loop).

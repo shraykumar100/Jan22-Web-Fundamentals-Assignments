@@ -1,0 +1,2 @@
+arr = [5,9,1,3,6,7,8,10,4]
+Write logical steps,pseudocode and draw flowchart of "Finding the missing number from the given array"
