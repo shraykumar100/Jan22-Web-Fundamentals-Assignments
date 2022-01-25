@@ -5,9 +5,9 @@ Step 4: act_sum = act_sum + act_arr[i]
 Step 5: now act_sum will contain the sum of act_arr.
 Step 6: take an expected array as exp_arr.
 Step 7: take a variable exp_sum to store the sum of exp_arr elements.
-Step 8: for calculating the sum of exp_arr
+Step 8: for calculating the sum of exp_arr:
         exp_sum = (exp_arr.length)*(exp_arr.length + 1)/2
 Step 9: take a variable miss_num to store missing number from the act_arr.
-Step 10: now by substracting the act_sum from the exp_sum we will get the missing number
-            miss_num = exp_sum - act_sum
-Step 11: print the miss_num
+Step 10: now by substracting the act_sum from the exp_sum we will get the missing number:
+        miss_num = exp_sum - act_sum
+Step 11: print the miss_num.

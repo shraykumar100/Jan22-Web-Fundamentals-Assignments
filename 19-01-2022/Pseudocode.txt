@@ -7,4 +7,4 @@ for(int i = 0; i<=act_arr.length; i++)
 exp_arr = [1,2,3,4,5,6,7,8,9,10]
 int exp_sum = (exp_arr.length)*(exp_arr.length + 1)/2
 int miss_num = exp_sum - act_sum
-print(f("The missingfrom the array is {miss_num}"))
+print(f("The missing number from the array is {miss_num}"))

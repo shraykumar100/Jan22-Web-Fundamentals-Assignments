@@ -1,2 +1,2 @@
 # MERN_Assignment
-This repo contains my all MERN assignments till the date.
+This repository contains my all MERN assignments till the date.
