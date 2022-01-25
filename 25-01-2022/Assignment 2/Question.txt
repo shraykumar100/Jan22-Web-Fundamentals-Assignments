@@ -1,0 +1,1 @@
+Take 3 numbers and write a program to find maximum of those 3 numbers.
