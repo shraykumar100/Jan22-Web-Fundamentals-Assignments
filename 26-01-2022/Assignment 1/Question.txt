@@ -1,0 +1,1 @@
+Take three numbers from the user as input and alert minimum value of those three.

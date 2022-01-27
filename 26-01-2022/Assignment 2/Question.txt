@@ -1,0 +1,1 @@
+Take a character from the user and show whether it is a vowel or consonant.
