@@ -1,0 +1,1 @@
+Print the first n numbers of a Fibonacci series.
