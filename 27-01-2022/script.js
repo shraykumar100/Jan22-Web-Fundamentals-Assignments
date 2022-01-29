@@ -12,4 +12,4 @@ for (let j = 0; j < arr.length; j++) {
         max = arr[j];
     }
 }
-console.log(`The largest number in array is ${max}`);
+alert(`The largest number in array is ${max}`);
