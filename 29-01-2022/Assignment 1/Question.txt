@@ -1,0 +1,3 @@
+User will give a string. Return the count of vowels.
+Ex.aayush -> Output: 3 
+AAYuSH -> Output: 3 
