@@ -13,5 +13,4 @@ if (num1 < num2) {
 if (min > num3) {
     min = num3;
 }
-alert(min);
-
+alert(`The minimum value is ${min}`);
