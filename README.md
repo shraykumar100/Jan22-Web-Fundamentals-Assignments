@@ -21,3 +21,5 @@ This repository contains my all MERN assignments till the date.
 02-02-2022 --> https://shraykumar100.github.io/MERN_Assignment/02-02-2022/
 
 03-02-2022 --> https://shraykumar100.github.io/MERN_Assignment/03-02-2022/
+
+07-02-2022 --> https://shraykumar100.github.io/MERN_Assignment/07-02-2022/
