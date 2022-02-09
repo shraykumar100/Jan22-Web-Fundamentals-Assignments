@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geekter | Apply Now</title>
+</head>
+
+<body>
+    <h1>Application Form</h1>
+    <form action="#">
+        <label for="name">Full Name*</label>
+        <input type="text" placeholder="Enter full name" name="name" id="name" pattern="[a-zA-Z]+" required>
+        <label for="email">Email*</label>
+        <input type="email" placeholder="Enter email" name="email" id="email" required
+            pattern="[a-zA-Z0-9]+@[a-zA-Z0-9]+\.com">
+        <br>
+        <br>
+        <label for="course">Select Course*</label>
+        <select name="course" id="course" required>
+            <option value="" selected disabled>Select Course</option>
+            <option value="1">Full stack web development</option>
+            <option value="2">Advanced web development</option>
+        </select>
+        <br>
+        <br>
+        <label for="tel">Phone*</label>
+        <input type="tel" required name="tel" id="tel" placeholder="Enter mobile number" minlength="10" maxlength="10"
+            pattern="[6-9]{1}[0-9]{9}">
+        <label for="hdegree">Highest degree*</label>
+        <select name="hdegree" id="fdegree" required>
+            <option value="" selected disabled>Select highest degree</option>
+            <option value="1">B.E or B.Tech CS/IT</option>
+            <option value="2">B.E or B.Tech others</option>
+            <option value="3">M.S or M.Tech CS/IT</option>
+            <option value="4">M.S or M.Tech others</option>
+            <option value="5">BCA</option>
+            <option value="6">MCA</option>
+            <option value="7">Others</option>
+        </select>
+        <br>
+        <br>
+        <label for="yr">Year of Completion*</label>
+        <select name="yr" id="yr" required>
+            <option value="" disabled selected>Select year of completion</option>
+            <option value="1">2018</option>
+            <option value="2">2019</option>
+            <option value="3">2020</option>
+            <option value="4">2021</option>
+            <option value="5">2022</option>
+            <option value="6">2023</option>
+        </select>
+        <label for="prs">Programming skills*</label>
+        <select required name="prs" id="prs">
+            <option value="" disabled selected> Selected programming skill level</option>
+            <option value="1">No coding skills</option>
+            <option value="2">Basic coding skills</option>
+            <option value="3">Intermediate coding skills</option>
+            <option value="4">Good coding skills</option>
+        </select>
+        <br>
+        <br>
+        <input type="checkbox" value="1" name="tnc" id="tnc" required> By singning up, you agree to the Terms and
+        Condintion of
+        Geekter (QuantumBit technologies Pvt. Ltd)*.
+        <br>
+        <br>
+        <input type="submit">
+    </form>
+</body>
+
+</html>
