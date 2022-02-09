@@ -16,17 +16,21 @@
         <input type="text" placeholder="Enter your last name" name="lname" required pattern="[a-zA-Z]+">
         <br>
         <br>
-        <input type="email" placeholder="Enter your email" name="email" required>
+        <input type="email" placeholder="Enter your email" name="email" pattern="[a-zA-Z0-9]+@[a-zA-Z0-9]+\.com"
+            required>
         <input type="password" placeholder="Create your password (8 characters minimum)" name="pass" required
             minlength="8" size="35">
         <br>
         <br>
-        <input type="tel" name="tel" placeholder="Phone number" maxlength="10" required
-            pattern="[6-9]{1}[0-9]{2}[0-9]{3}[0-9]{4}">
+        <input type="tel" name="tel" placeholder="Phone number" minlength="10" maxlength="10" required
+            pattern="[6-9]{1}[0-9]{9}">
         <br>
         <br>
         <input type="text" name="gen" placeholder="Gender (male/female/other)" pattern="[male|female|other]+" required>
-        <input type="text" name="add" placeholder="Enter your address" maxlength="150" required>
+        <input type="date" placeholder="Enter DOB" name="dob" id="dob" required>
+        <br>
+        <br>
+        <input type="text" name="add" size="35" placeholder="Enter your address" maxlength="150" required>
         <br>
         <br>
         <input type="text" name="cour" placeholder="Enter course (B.Tech/M.Tech/B.Sc/M.Sc)" size="35"
