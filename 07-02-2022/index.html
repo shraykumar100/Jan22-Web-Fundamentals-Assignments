@@ -38,8 +38,10 @@
         <input type="text" name="br" placeholder="Enter branch" size="8" required>
         <br>
         <br>
-        <input type="text" name="12pr" size="27" placeholder="Enter 12th percentage (minimum 60%)" required>
-        <input type="text" name="10pr" size="27" placeholder="Enter 10th percentage (minimum 60%)" required>
+        <input type="number" name="12pr" size="27" placeholder="Enter 12th percentage" min="0" max="100" step="0.01"
+            required>
+        <input type="number" name="10pr" size="27" placeholder="Enter 10th percentage" min="0" max="100" step="0.01"
+            required>
         <br>
         <br>
         <input type="text" size="15" placeholder="Enter 12th school name" name="12sc" required>
