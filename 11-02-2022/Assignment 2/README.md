@@ -10,3 +10,5 @@ We go and get inspiration of pages and pick upto 5 designs. (These we will make 
 4. https://dribbble.com/shots/14013010-Folio-Designer-Portfolio-Kit-Animation?utm_source=Clipboard_Shot&utm_campaign=tranmautritam&utm_content=Folio%3A%20Designer%20Portfolio%20Kit%20%E2%80%93%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=tranmautritam&utm_content=Folio%3A%20Designer%20Portfolio%20Kit%20%E2%80%93%20Animation&utm_medium=Social_Share
 
 5. https://dribbble.com/shots/16848137-Personal-portfolio-landing-page?utm_source=Clipboard_Shot&utm_campaign=mrstudio&utm_content=Personal%20portfolio%20landing%20page&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=mrstudio&utm_content=Personal%20portfolio%20landing%20page&utm_medium=Social_Share
+# Hosted link for this question :
+https://shraykumar100.github.io/MERN_Assignment/11-02-2022/Assignment%202/
