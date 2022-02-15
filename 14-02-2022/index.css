@@ -1,0 +1,207 @@
+
+#lines{
+    width: 20px;
+    margin-left: 18px;
+    /* margin-top: 10px; */
+}
+#ytlogo{
+    margin-left: 20px;
+}
+#in{
+    margin-left: 430px;
+    width: 560px;
+    height: 32px;
+    padding-left: 10px;
+    font-size: 18px;
+    border-color: grey;
+    border-width: 1px;
+    border-color: rgb(182, 181, 181);
+    border-style: groove;
+    
+}
+#seabutton{
+width: 60px;
+height: 36px;
+margin-left: -5px;
+background-color: whitesmoke ;
+border-style: groove;
+border-width: 1px;
+border-color: rgb(182, 181, 181);
+
+}
+#mic{
+    width:38px;
+    height: 38px;
+ 
+    border-radius: 50%;
+    /* margin-left: 10px; */
+    border-color: transparent;
+    background-color: whitesmoke;
+    margin-top: 6px;
+    /* margin-left: 12px; */
+   
+}
+#micicon{
+    width: 17px;
+    height: 25px;
+}
+#upload
+{
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    border: 0px;
+    /* margin-left: 400px; */
+   
+}
+#uploadicon{
+    width: 23px;
+    height: 23px;
+}
+#lefthead{
+    float: left;
+    margin-top: 8px;
+}
+#righthead{
+   
+   float: right;
+   margin-top: 8px;
+   
+}
+#searchdiv{
+    float: left;
+    margin-top: 6px;
+}
+#seabuttondiv{
+    float: left;
+    margin-top: 6px;
+}
+#ninedot{
+    padding: 0%;
+    background-color: transparent;
+    border: 0px;
+}
+#ninedoticon{
+    width: 20px;
+}
+#bell{
+    
+    border: 0px;
+    background-color: transparent;
+}
+#bellicon{
+    width: 20px;
+}
+#acc{
+    
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    background-color: orange;
+    border-color: transparent;
+    border-style: groove;
+}
+
+#acclink{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+#micdiv{
+    float: left;
+    margin-left: 10px;
+    /* margin-right: 20px; */
+    /* margin-top: 3px; */
+}
+#uploaddiv{
+    float: left;
+    margin-right: 20px;
+    /* margin-left: 400px; */
+}
+#ninedotdiv{
+    float: left;
+    margin-right: 20px;
+    margin-top: 2px;
+}
+#belldiv{
+    float: left;
+    margin-right: 20px;
+}
+#accdiv{
+    float: left;
+    margin-right: 20px;
+}
+table{
+    border-spacing: 10px;
+}
+.tabimg{
+    width: 400px;
+    /* height: %; */
+ } 
+#videotab{
+    float: right;
+    border-spacing: 10px;
+    background-color: whitesmoke;
+    padding: 19px;
+    margin-top: 10px;
+}
+#menutab{
+    float: left;
+    border-spacing: 15px;
+    text-align: left;
+   border-top-color: transparent;
+   border-bottom-color: transparent;
+   border-left-color: transparent;
+    /* margin-top: 200px; */
+}
+.menuicons{
+   width: 25px;
+ 
+}
+.menutext{
+    
+    margin-left: 30px;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+   
+}
+.menutd{
+    border-color: transparent;
+}
+.videometa{
+    
+    /* margin-right: 10px; */
+    margin-top: 2px;
+    float: left;
+    font-size: 14px;
+    margin-left: 20px;
+    
+}
+.thum{
+    float: left;
+    border-radius: 50%;
+    height: 40px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+.category{
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color:whitesmoke ;
+    border-color: grey;
+    border-style: solid;
+}
+#toptab{
+    border-left: 0px;
+    border-right: 0px;
+    border-color: grey;
+    border-style: solid;
+    
+}
