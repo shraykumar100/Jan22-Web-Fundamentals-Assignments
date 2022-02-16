@@ -135,7 +135,7 @@ table{
     border-spacing: 10px;
 }
 .tabimg{
-    width: 400px;
+    width: 100%;
     /* height: %; */
  } 
 #videotab{
@@ -144,6 +144,7 @@ table{
     background-color: whitesmoke;
     padding: 19px;
     margin-top: 10px;
+    width: 90%;
 }
 #menutab{
     float: left;
@@ -153,6 +154,7 @@ table{
    border-bottom-color: transparent;
    border-left-color: transparent;
     /* margin-top: 200px; */
+    width: 10%;
 }
 .menuicons{
    width: 25px;
@@ -186,7 +188,7 @@ a{
     border-radius: 50%;
     height: 40px;
     margin-top: 8px;
-    margin-left: 20px;
+    margin-left: 5px;
 }
 .category{
     border-radius: 20px;
@@ -203,5 +205,5 @@ a{
     border-right: 0px;
     border-color: grey;
     border-style: solid;
-    
+    width: 90%;
 }
