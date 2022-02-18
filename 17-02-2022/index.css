@@ -1,0 +1,30 @@
+.collage{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 40px;
+    box-shadow: 10px,10px,black;
+    margin-top: 20px;
+}
+img{
+    max-width: 500px;
+    border-radius: 40px;
+    width: 400px;
+   
+}
+
+body{
+    background-color: rgb(233, 233, 233);
+}
+.head{
+    text-align: center;
+    background-color: grey;
+    margin-top: -8px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    padding:2px
+}
+.heading{
+    font-size:45px;
+    color: white;
+}
