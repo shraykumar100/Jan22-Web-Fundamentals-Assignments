@@ -36,6 +36,8 @@ This repository contains my all MERN assignments till the date.
 11-02-2022 --> Assignment 1 --> https://shraykumar100.github.io/MERN_Assignment/11-02-2022/Assignment%201/
                Assignment 2 --> https://shraykumar100.github.io/MERN_Assignment/11-02-2022/Assignment%202/
 
-14-02-2022 --> https://shraykumar100.github.io/MERN_Assignment/14-02-2022/
+14-02-2022 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week_3/14-02-2022/
 
-17-02-2022 --> https://shraykumar100.github.io/MERN_Assignment/17-02-2022/
+17-02-2022 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week_3/17-02-2022/
+
+18-02-2022 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week_3/18-02-2022/
