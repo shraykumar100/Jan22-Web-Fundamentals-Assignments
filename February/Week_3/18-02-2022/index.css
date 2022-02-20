@@ -1,0 +1,19 @@
+h2{
+    color: black;
+} 
+table{
+    color: black;
+    border-color: grey;
+    width: auto;
+    border-spacing: 0px;
+    
+}
+tr:nth-child(3n-2){
+    background-color: rgb(192, 190, 190);
+}
+tr:nth-child(3n-1){
+    background-color: grey;
+}
+tr:nth-child(3n){
+    background-color: rgb(73, 72, 72);
+}
