@@ -50,7 +50,7 @@ ul{
     text-align: left;
     
 }
-.application,h4:hover{
+.application:hover,h4:hover{
     background-color: #abc4ff;
     border: 1px solid #54BAB9;
     color: white;
