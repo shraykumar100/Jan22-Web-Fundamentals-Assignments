@@ -1,0 +1,88 @@
+body{
+    background-image: linear-gradient(silver,white,white);
+    display: flex ; 
+    justify-content: space-evenly;
+}
+.display{
+    background-color: #2D2A2E;
+    border: 0px;
+    height: 200px;
+    color: white;
+}
+.display:hover{
+    cursor: auto;
+}
+.display::selection{
+    background-color: #5C6971;
+}
+table{
+    border: 1px solid transparent;
+    border-spacing: 15px;
+    display: flexbox;
+    flex-wrap: wrap;
+    border-radius: 50px;
+    text-align: center;
+    background-color: #F9F9F9;
+    box-shadow: 6px 6px 10px grey;
+}
+
+div{
+    margin-top: 3%;  
+}
+td{
+    border: 1px solid transparent;
+    font-size:30px;
+    padding: 10px;
+    border-radius: 50px;
+    color: #5C6971;
+    border-top-color: white;
+    border-left-color: white;
+}
+td::selection{
+    background-color: transparent;
+    
+}
+td:hover{
+    cursor: pointer;
+}
+.lightyellow{
+    background-color: #F6F0E4;
+    box-shadow: 3px 3px 5px #E7D9BE;
+   
+}
+
+.rightcol{
+    padding: 10px 20px;
+    
+}
+.white{
+    background-color:#F5F5F7;   
+    box-shadow: 3px 3px 5px #D6D7D9 ;
+
+}
+
+.lightpurple{
+    background-color: #E1D5E9;
+    box-shadow: 3px 3px 5px #C9AEE5;
+}
+
+.backspace{
+    padding: 0%; 
+    background-color: #E4E8EB;
+    box-shadow: 3px 3px 5px #bebebe ;
+}
+.equal{
+    color: white; 
+    background-color: #8C27DB;
+    box-shadow: 3px 3px 5px #9B71C3;
+}
+.c{
+background-color: #FBB72D; 
+color: white;
+box-shadow: 3px 3px 5px #E5BF81;
+}
+td:active{
+    box-shadow: 0px 0px 0px #E7D9BE;
+    border-top-color: transparent;
+    border-left-color: transparent;
+}
