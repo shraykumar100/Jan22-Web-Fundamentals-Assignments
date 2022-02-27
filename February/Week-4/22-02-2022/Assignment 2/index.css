@@ -1,0 +1,60 @@
+body{
+    background-image: url(./assets/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 105%;
+    background-position: top;
+    
+    
+}
+.left-div{
+    float: left;
+    margin-left: 120px;  
+    width: 500px;
+    
+}
+.right-div{
+    float: right;
+    margin-right: 120px;  
+    width: 500px;
+    
+}
+img{
+    display: block;
+    width: 200px;
+    padding: 20px;
+}
+
+p{
+    font-size: 50px;
+    position: relative;
+    top: 30px;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+}
+.name-image1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    text-align: left;
+}
+.name-image2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    text-align: left;
+}
+h1{
+    display: inline;
+    padding: 30px;
+    color: white;
+}
+.footerp1{
+    position: fixed;
+    bottom: 40px;
+    left: 100px;
+}
+.footerp2{
+    position: fixed;
+    bottom: 40px;
+    right: 100px;
+}

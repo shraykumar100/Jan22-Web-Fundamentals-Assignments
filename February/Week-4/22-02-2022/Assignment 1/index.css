@@ -1,5 +1,6 @@
 body{
     background-image: linear-gradient(silver,white,white);
+    background-repeat: no-repeat;
     display: flex ; 
     justify-content: space-evenly;
 }
@@ -21,13 +22,20 @@ table{
     display: flexbox;
     flex-wrap: wrap;
     border-radius: 50px;
-    text-align: center;
     background-color: #F9F9F9;
     box-shadow: 6px 6px 10px grey;
 }
-
+p{
+    display: inline-block;
+    padding: 5px;
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px grey;
+}
 div{
-    margin-top: 3%;  
+    padding: 10px;
+    text-align: center;
 }
 td{
     border: 1px solid transparent;

@@ -1,3 +1,3 @@
 # Question :
-We created 1 level dropdown. You have to create a multi level dropdown (2 level).
+Create a multi level dropdown menu (2 level).
 # Hosted link :

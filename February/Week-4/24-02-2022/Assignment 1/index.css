@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    background-image: url(./backgrouund.jpg);
+    background-repeat: no-repeat;
+}
+.leftheader{
+    float: left;
+}
+.rightheader{
+    float: right;
+}
+.personal{
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+}
+.header{
+    padding: 40px 80px;
+}
+a{
+    text-decoration: none;
+}
+span{
+    padding: 30px;
+}
+.home{
+    color: rgb(255, 208, 0);
+}
+.aboutus{
+    color: black;
+}
+.services{
+    color: black;
+}
+.contactus{
+    padding: 7px 15px;
+    color: black;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.section{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 40px 80px;
+    margin-left: 20px;
+
+}
+.leftsection{
+    width: 40%;
+}
+.intro{
+    font-size: 40px;
+    font-weight: bold;
+    padding: 5px;
+    display: inline-block;
+}
+
+.hi{
+    text-shadow: 15px 15px 35px grey,-15px -15px 35px grey ;
+}
+.name{
+    color: #F9A626;
+    text-shadow: 15px 15px 35px #f3b353,-15px -15px 35px #f3b353 ;
+    margin-top: -10px;
+}

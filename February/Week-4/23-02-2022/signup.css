@@ -1,0 +1,96 @@
+img{
+    width: 800px;
+}
+body{
+    margin: 0px;
+    background-color: #E9E7FF;
+}
+.main-section{
+    display: inline-block;
+    margin: 100px;
+    margin-left: 200px;
+    background-color: #8F6DFF;
+    border-radius: 20px;
+    box-shadow: 20px 20px 10px #b9a5fa;
+}
+.left-section{
+    background-color: white;
+    float: left;
+    width: 800px;
+    height: 700px;
+    border-radius: 20px;
+}
+.right-section{
+    padding: 45px 90px;
+    border-color: transparent;
+    float: left;
+    text-align: left;
+}
+.form-input{
+    display: block;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 30px;
+    border-color: transparent;
+    color: blue;
+    width: 300px;
+    margin-left: 10px;
+}
+.inline{
+    display: block;
+    margin-left: auto;
+}
+.welcome{
+    padding: 0%;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+    display: flex;flex-wrap: wrap;
+}
+
+.dob{
+   color:  #8F6DFF;
+}
+.sign-in{
+    width: 100px;
+    color:white ;
+    border: 1px solid white;
+    font-size: 15px;
+    padding: 8px 15px;
+    background-color: transparent;
+}
+.create-account{
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: #352171;
+    width: 130px;
+    padding: 8px 15px;
+    text-align: center;
+    padding: 8px 15px;
+
+}
+.sign-in:hover{
+    cursor: pointer;
+}
+.logo{
+    width: 30px;
+    background-color: white;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 50%;
+}
+.exlogin{
+    padding: 0px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-evenly;
+}
+.exlogintext{
+    display: block; 
+    padding: 0px;
+    text-align: center; 
+    color: white;
+    font-size: larger;
+}
