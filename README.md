@@ -2,55 +2,89 @@
 This repository contains my all MERN assignments till the date.
 # Assignment hosted links :
 
-25-01-2022 --> Assignment 1 --> https://shraykumar100.github.io/MERN_Assignment/25-01-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/MERN_Assignment/25-01-2022/Assignment%202/
+# January
 
-26-01-2022 --> Assignment 1 --> https://shraykumar100.github.io/MERN_Assignment/26-01-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/MERN_Assignment/26-01-2022/Assignment%202/
+# Week-2
+# 25-01-2022 
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/25-01-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/25-01-2022/Assignment%202/
 
-27-01-2022 --> https://shraykumar100.github.io/MERN_Assignment/27-01-2022/
+# 26-01-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/26-01-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/26-01-2022/Assignment%202/
 
-28-01-2022 --> Assignment 1 --> https://shraykumar100.github.io/MERN_Assignment/28-01-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/MERN_Assignment/28-01-2022/Assignment%202/
+# 27-01-2022
+Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/27-01-2022/
 
-29-01-2022 --> Assignment 1 --> https://shraykumar100.github.io/MERN_Assignment/29-01-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/MERN_Assignment/29-01-2022/Assignment%202/
+# 28-01-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/28-01-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/28-01-2022/Assignment%202/
 
-31-01-2022 --> https://shraykumar100.github.io/MERN_Assignment/31-01-2022/
+# 29-01-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/29-01-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/29-01-2022/Assignment%202/
 
-02-02-2022 --> https://shraykumar100.github.io/MERN_Assignment/02-02-2022/
+# Week-3
+# 31-01-2022
+Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-3/
 
-03-02-2022 --> https://shraykumar100.github.io/MERN_Assignment/03-02-2022/
+# February
 
-07-02-2022 --> https://shraykumar100.github.io/MERN_Assignment/07-02-2022/
+# Week-1
 
-08-02-2022 --> Assignment 1 --> https://shraykumar100.github.io/MERN_Assignment/08-02-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/MERN_Assignment/08-02-2022/Assignment%202/
+# 02-02-2022
+Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-1/02-02-2022/
 
-09-02-2022 --> Assignment 1 --> https://shraykumar100.github.io/MERN_Assignment/09-02-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/MERN_Assignment/09-02-2022/Assignment%202/
+# 03-02-2022
+Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-1/03-02-2022/
 
-10-02-2022 --> Assignment 1 --> https://shraykumar100.github.io/MERN_Assignment/10-02-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/MERN_Assignment/10-02-2022/Assignment%202/
+# Week-2
 
-11-02-2022 --> Assignment 1 --> https://shraykumar100.github.io/MERN_Assignment/11-02-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/MERN_Assignment/11-02-2022/Assignment%202/
+# 07-02-2022
+Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-2/07-02-2022/
 
-14-02-2022 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week_3/14-02-2022/
+# 08-02-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-2/08-02-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-2/08-02-2022/Assignment%202/
 
-17-02-2022 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week_3/17-02-2022/
+# 09-02-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-2/09-02-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-2/09-02-2022/Assignment%202/
 
-18-02-2022 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week_3/18-02-2022/
+# 10-02-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-2/10-02-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-2/10-02-2022/Assignment%202/
 
-21-02-2022 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/21-02-2022/
+# 11-02-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-2/11-02-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-2/11-02-2022/Assignment%202/
 
-22-02-2022 --> Assignment 1 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/22-02-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/22-02-2022/Assignment%202/
+# Week-3
 
-23-02-2022 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/23-02-2022/
+# 14-02-2022
+Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week_3/14-02-2022/
+# 17-02-2022
+Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week_3/17-02-2022/
 
-24-02-2022 --> Assignment 1 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/24-02-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/24-02-2022/Assignment%202/
+# 18-02-2022
+Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week_3/18-02-2022/
 
-25-02-2022 --> Assignment 1 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/25-02-2022/Assignment%201/
-               Assignment 2 --> https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/25-02-2022/Assignment%202/
+# Week-4
+
+# 21-02-2022
+Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/21-02-2022/
+
+# 22-02-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/22-02-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/22-02-2022/Assignment%202/
+
+# 23-02-2022
+Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/23-02-2022/
+
+# 24-02-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/24-02-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/24-02-2022/Assignment%202/
+
+# 25-02-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/25-02-2022/Assignment%201/
+Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-4/25-02-2022/Assignment%202/
