@@ -1,6 +1,6 @@
-# MERN_Assignment
+# Jan22-Web-Fundamentals-Assignments
 This repository contains my all MERN assignments till the date.
-# Assignment hosted links :
+# Assignment hosted links
 
 # January
 
