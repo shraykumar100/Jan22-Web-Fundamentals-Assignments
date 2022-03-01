@@ -7,25 +7,37 @@ This repository contains my all MERN assignments till the date.
 # Week-2
 
 <ul>
+<li>
 
 # 25-01-2022 
-Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/25-01-2022/Assignment%201/  
-Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/25-01-2022/Assignment%202/
+<ol>
+<li>Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/25-01-2022/Assignment%201/  
+</li>
+<li>Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/25-01-2022/Assignment%202/
+</li>
+</li>
+<li>
 
 # 26-01-2022
 Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/26-01-2022/Assignment%201/  
 Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/26-01-2022/Assignment%202/
+</li>
+<li>
 
 # 27-01-2022
 Assignment : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/27-01-2022/
+</li>
+<li>
 
 # 28-01-2022
 Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/28-01-2022/Assignment%201/  
 Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/28-01-2022/Assignment%202/
-
+</li>
+<li>
 # 29-01-2022
 Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/29-01-2022/Assignment%201/  
 Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/29-01-2022/Assignment%202/
+</li>
 </ul>
 
 # Week-3
