@@ -6,7 +6,7 @@ This repository contains my all MERN assignments till the date.
 
 # Week-2
 # 25-01-2022 
-Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/25-01-2022/Assignment%201/
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/25-01-2022/Assignment%201/  
 Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/January/Week-2/25-01-2022/Assignment%202/
 
 # 26-01-2022
