@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign up</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+
+<body>
+    <section class="main-section">
+        <div class="left-section">
+            <img src="./assetes/signup.png" alt="">
+        </div>
+        <div class="right-section">
+            <p class="welcome">New here? </br>
+                Sign up now...</p>
+            <form action="#" class="form">
+                <input type="text" id="name" required placeholder="Enter full name" class="form-input">
+                <input type="email" required placeholder="Enter e-mail" class="form-input">
+                <input type="password" id="crpass" minlength="8" maxlength="15" required placeholder="Create password"
+                    class="form-input">
+                <input type="password" id="repass" minlength="8" maxlength="15" required placeholder="Re enter password"
+                    class="form-input">
+                <input type="tel" minlength="10" maxlength="10" required placeholder="Enter phone" class="form-input">
+                <input type="date" required class="form-input dob">
+                <input type="submit" onclick="checkPassMatch();" value="Sign up" class="form-input inline sign-in">
+            </form>
+            <span class="exlogintext">
+                <p>Or sign up using</p>
+                <span class="exlogin">
+
+                    <a href="#">
+                        <img class="logo" src="./assetes/google.png" alt="">
+                    </a>
+                    <a href="#">
+                        <img class="logo" src="./assetes/apple.png" alt="">
+                    </a>
+                    <a href="#">
+                        <img class="logo" src="./assetes/facebook.png" alt="">
+                    </a>
+                </span>
+            </span>
+
+        </div>
+    </section>
+    <script src="./index.js"></script>
+</body>
+
+</html>
