@@ -11,15 +11,16 @@ span{
     width: 400px;
    height: 400px;
    padding: 0px 30px;
+   border: 2px solid #5463FF;
 }
 
 body{
-    background-color: rgb(233, 233, 233);
+    background-color: #EFFFFD;
     font-family: sans-serif;
 }
 .head{
     text-align: center;
-    background-color: grey;
+    background-color: #0E185F;
     margin-top: -8px;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
@@ -31,7 +32,7 @@ body{
 }
 .like{
     text-align: center;
-    background-color: black;
+    background-color: #5463FF;
     border-radius: 50%;
     display: inline-block;
     padding: 4px;
@@ -39,7 +40,7 @@ body{
 }
 .dislike{
     text-align: center;
-    background-color: black;
+    background-color: #5463FF;
     border-radius: 50%;
     display: inline-block;
     padding: 4px;
@@ -50,7 +51,7 @@ img{
 .inline{
     height: 25px;
     text-align: center;
-    background-color: black;
+    background-color: #5463FF;
     border-radius: 20px;
     display: inline-block;
     color: white;
@@ -63,5 +64,5 @@ img:hover{
     cursor: pointer;
 }
 img:active{
-    background-color: grey;
+    background-color: #2FA4FF;
 }

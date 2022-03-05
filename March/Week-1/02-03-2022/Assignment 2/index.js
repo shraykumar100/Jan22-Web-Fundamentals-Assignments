@@ -165,11 +165,11 @@ function disliked15() {
 
 // like/dislike functions for pic16
 
-function liked15() {
-    var liked15 = document.getElementById("like15");
-    liked15.innerText = parseInt(liked15.innerText) + 1;
+function liked16() {
+    var liked16 = document.getElementById("like16");
+    liked16.innerText = parseInt(liked16.innerText) + 1;
 }
-function disliked15() {
-    var disliked15 = document.getElementById("dislike15");
-    disliked15.innerText = parseInt(disliked15.innerText) + 1;
+function disliked16() {
+    var disliked16 = document.getElementById("dislike16");
+    disliked16.innerText = parseInt(disliked16.innerText) + 1;
 }
