@@ -3,7 +3,6 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     row-gap: 40px;
-    box-shadow: 10px,10px,black;
     margin-top: 20px;
 }
 span{
@@ -49,7 +48,6 @@ img{
     width: 25px;
 }
 .inline{
-    /* width: 25px; */
     height: 25px;
     text-align: center;
     background-color: black;
@@ -60,4 +58,10 @@ img{
     font-weight: bold;
     padding-left: 7px;
     padding-right: 7px;
+}
+img:hover{
+    cursor: pointer;
+}
+img:active{
+    background-color: grey;
 }
