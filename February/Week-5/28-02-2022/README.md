@@ -7,3 +7,4 @@ If number is divisible by 3 and 5, both, print FizzBuzz (FooBar)
 Else, print the number.
 
 # Hosted link
+https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/February/Week-5/28-02-2022/
