@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8" />
-    <title>TO-DO List</title>
+    <title>TO-DO List (User Interface only)</title>
     <link rel="stylesheet" href="./index.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -33,6 +33,10 @@
                 <img class="nav-icon" src="./assets/grocery.png" alt="">
                 <span class="nav-icon-lable">Grocery</span>
             </div>
+            <div class="nav-divs">
+                <img class="nav-icon" src="./assets/add.png" alt="">
+                <span class="nav-icon-lable">Add <br /> category</span>
+            </div>
         </div>
         <div class="nav-bottom">
             <div class="nav-divs">
@@ -48,14 +52,13 @@
     <section class="section">
         <div class="width">
             <h1>Home</h1>
-            <span class=""><input class="search" type="text" placeholder="Search"><button>Share
-                    list</button></span>
+            <span class=""><input class="search" type="text" placeholder="Type your note"><button>Add
+                    item</button></span>
         </div>
         <div>
+            <h1 class="allnotes">All notes</h1>
             <ul>
-                <li>
-                    <h1>All notes</h1>
-                </li>
+
                 <li>
                     <input class="inline checkbox" type="checkbox">
                     <p class="inline">do exercise</p>
@@ -144,7 +147,7 @@
         </div>
 
     </section>
-    <div class="add"><img src="./assets/add.png" alt=""></div>
+    <div class="add"><img src="./assets/search.png" alt=""></div>
 </body>
 
 </html>

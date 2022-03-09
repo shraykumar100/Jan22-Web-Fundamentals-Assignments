@@ -1,0 +1,120 @@
+body{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: fixed;
+    left: 0px;
+    height: 100vh;
+    background-color:#5E67E0 ;
+    padding: 5px;
+    align-items: center;
+    font-family: sans-serif;
+}
+.nav-divs{
+    padding: 10px;
+    border-radius: 10px;
+}
+.nav-icon{
+    width: 40px;
+}
+.nav-top{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.nav-bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    position: fixed;
+    bottom: 0px;
+}
+.section{
+    width: 93vw;
+    height: fit-content;
+    float: right;
+    padding: 20px;
+}
+.width{
+    width: 100%;
+    padding: 10px;
+    position: sticky;
+    top: 0px;
+    height: fit-content;
+    background-color: white;
+}
+.nav-icon-lable{
+    font-size: 10px;
+    display: block;
+    text-align: center;
+    color: white;
+}
+.inline{
+    display: inline;
+}
+ul{
+    list-style: circle;
+    padding: 10px;
+    border-radius: 10px;
+}
+hr{
+    color: white;
+}
+li{
+    padding: 5px;
+    /* background-color: aqua; */
+}
+.add{
+    position: fixed;
+    bottom: 20px; 
+    right: 20px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #5E67E0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 5px 5px 10px #7176d8;
+}
+.search{
+    color: #5E67E0;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border-color: transparent;
+    font-size: 15px;
+    width: 80vw;
+    background-color: #F1F3FD;
+}
+.nav-divs:hover, .add:hover, button:hover{
+    cursor: pointer;
+}
+.nav-divs:active, .add:active, button:active{
+    background-color: #545BD6;
+    box-shadow: 0px 0px 0px;
+}
+.nav-icon-lable::selection{
+    background-color: transparent;
+}
+.checkbox{
+    margin-right: 20px;
+}
+button{
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border-color: transparent;
+    font-size: 15px;
+    width: 100px;
+    margin-left: 30px;
+    background-color: #5E67E0;
+}
+.allnotes{
+    margin-left: 15px;
+}
