@@ -1,0 +1,53 @@
+.collage{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 40px;
+    box-shadow: 10px,10px,black;
+    margin-top: 20px;
+}
+video{
+    max-width: 500px;
+    border-radius: 40px;
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    margin: 10px;
+}
+
+body{
+    background-color: rgb(233, 233, 233);
+    margin: 0px;
+    font-family: sans-serif;
+}
+.head{
+    text-align: center;
+    background-color: #545BD6;
+    margin-top: -8px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    padding:10px
+}
+.heading{
+    font-size:45px;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+input{
+    width: 400px;
+    height: 40px;
+    border-radius: 12px;
+    padding-left: 20px;
+    border-color: transparent;
+    font-size: 15px;
+    margin: 10px;
+}
+button{
+    height: 40px;
+    border-radius: 12px;
+    padding: 0px 10px;
+    border-color: transparent;
+    font-size: 15px;
+    margin: 10px;
+}
