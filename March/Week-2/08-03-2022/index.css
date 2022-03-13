@@ -1,0 +1,40 @@
+body
+{
+    background-color: rgb(233, 233, 233);
+    height: 100vh;
+    width: 100vw;
+}
+.myimg{
+    max-width: 500px;
+    border-radius: 40px;
+    width: 400px;
+}
+.main1
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 40px;
+    box-shadow: 10px,10px,black;
+    margin-top: 20px;
+}
+.d-none
+{
+    display: none;
+}
+.subdiv-image1,.subdiv-image2.subdiv-image3,.subdiv-image4,.subdiv-image5,.subdiv-image6,.subdiv-image7,.subdiv-image8
+{
+    width: 98vw;
+    height: 98vh;
+    background-color: transparent;
+    margin: 0px;
+    cursor: pointer;
+}
+.cross
+{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 100px;
+    height: 100px;
+}

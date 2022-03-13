@@ -1,0 +1,35 @@
+body, .main-div
+{
+    height: 100vh;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main-div
+{
+    height: 300px;
+    width: 500px;
+    background-color: white;
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+span{
+    display: block;
+}
+.main-div button
+{
+    display: block;
+    background-color: skyblue;
+    height: 40px;
+    width: 100px;
+    font-weight: bolder;
+    font-size: large;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+}

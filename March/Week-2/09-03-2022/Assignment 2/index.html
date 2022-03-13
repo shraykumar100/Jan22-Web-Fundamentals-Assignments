@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Notes taking app</title>
+    <link rel="stylesheet" href="./index.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="nav-top">
+            <div class="nav-divs">
+                <img class="nav-icon" src="./assets/menu.png" alt="">
+            </div>
+            <br>
+            <div class="nav-divs">
+                <img class="nav-icon" src="./assets/home.png" alt="">
+                <span class="nav-icon-lable">Home</span>
+            </div>
+            <div class="nav-divs">
+                <img class="nav-icon" src="./assets/work.png" alt="">
+                <span class="nav-icon-lable">Work</span>
+            </div>
+            <div class="nav-divs">
+                <img class="nav-icon" src="./assets/school.png" alt="">
+                <span class="nav-icon-lable">School</span>
+            </div>
+            <div class="nav-divs">
+                <img class="nav-icon" src="./assets/grocery.png" alt="">
+                <span class="nav-icon-lable">Grocery</span>
+            </div>
+            <div class="nav-divs">
+                <img class="nav-icon" src="./assets/add.png" alt="">
+                <span class="nav-icon-lable">Add <br /> category</span>
+            </div>
+        </div>
+        <div class="nav-bottom">
+            <div class="nav-divs">
+                <img class="nav-icon" src="./assets/settings.png" alt="">
+                <span class="nav-icon-lable">Settings</span>
+            </div>
+            <div class="nav-divs">
+                <img class="nav-icon" src="./assets/account.png" alt="">
+                <span class="nav-icon-lable">Account</span>
+            </div>
+        </div>
+    </nav>
+    <section class="section">
+        <div class="width">
+            <h1>Home</h1>
+            <span class="">
+                <input id="todo_input" class="search" type="text" placeholder="Type your note">
+                <input id="todo_input_description" class="search" type="text" placeholder="Type description">
+                <button id="btn">Add note</button>
+            </span>
+        </div>
+        <div>
+            <h1 class="allnotes">All notes</h1>
+            <ul id="list_container">
+
+            </ul>
+        </div>
+
+    </section>
+    <div class="add"><img src="./assets/search.png" alt=""></div>
+    <script src="./index.js"></script>
+</body>
+
+</html>

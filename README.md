@@ -93,3 +93,14 @@ Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignment
 # 03-03-2022
 Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/March/Week-1/03-03-2022/Assignment%201/  
 Assignment 2 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/March/Week-1/03-03-2022/Assignment%202/
+
+# Week-2
+
+# 07-03-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/March/Week-2/07-03-2022/Assignment%201/  
+Assignment 2 : 
+# 08-03-2022
+Assignment : 
+# 09-03-2022
+Assignment 1 : https://shraykumar100.github.io/Jan22-Web-Fundamentals-Assignments/March/Week-2/09-03-2022/Assignment%201/
+Assignment 2 :

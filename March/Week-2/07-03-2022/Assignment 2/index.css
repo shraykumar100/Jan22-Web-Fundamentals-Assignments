@@ -1,0 +1,142 @@
+body{
+    height: 100vh;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+header, .story_bar{
+    padding: 10px;
+}
+.insta_body{
+    width: 375px;
+    height: 760px;
+    background-color: white;
+    overflow-y: scroll;
+}
+.icons{
+    height: 30px;
+}
+.story_bar{
+    padding: 0px;
+    /* margin-top: 5vh; */
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+.story_bar > div{
+    text-align: center;
+    font-size: 15px;
+    padding: 0px;
+}
+.story_bar > div > p{
+    font-size: 10px;
+}
+.story_icons{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 5px;
+}
+.left_header{
+    float: left;
+}
+.right_header{
+    float: right;
+}
+header{
+    position: sticky;
+    top: 0px;
+    height: 3vh;
+    background-color: white;
+}
+hr{
+    color: white;
+    margin: 2px;
+}
+.feed_icons{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.home_feed > div > p{
+    margin: 10px;
+    margin-left: 8px;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bolder;
+}
+.home_feed > div{
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+.feed_post{
+    width: 360px;
+    display: block;
+}
+.post_bottom{
+    width: 23px;
+    padding: 5px;
+}
+footer{
+    border-top: 1px solid grey;
+    background-color: white;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    position: sticky;
+    bottom: 0px;
+}
+.search {
+    width: 96%;
+    height: 25px;
+    margin: 5px 2px;
+    background-color: rgb(219, 219, 219);
+    border-radius: 10px;
+    border-color: transparent;
+    padding-left: 5px;
+}
+.search_img{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+.search_img > img{
+    height: 150px;
+    width: 170px;
+}
+.reels > img{
+    width: 360px;
+    height: 760px;
+}
+ul{
+    list-style: none;
+    padding-left: 10px;
+}
+.header{
+    width: 100%;
+}
+.name{
+    display: block;
+    margin: 0px;
+}
+.profile_pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+table{
+    text-align: center;
+}
+.none{
+    display: none;
+}
+.post_bottom:hover{
+    cursor: pointer;
+}
