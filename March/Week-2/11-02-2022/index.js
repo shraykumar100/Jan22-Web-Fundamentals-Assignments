@@ -11,6 +11,7 @@ let get_data = function(res){
         new_elem.classList.add = "vdo";
         new_elem.setAttribute("autoplay","");
         new_elem.setAttribute("loop","");
+        new_elem.setAttribute("muted","");
         clg.appendChild(new_elem);
     }
 
@@ -31,6 +32,7 @@ const handle_search = function(res) {
         new_elem.classList.add = "vdo";
         new_elem.setAttribute("autoplay","");
         new_elem.setAttribute("loop","");
+        new_elem.setAttribute("muted","");
         clg.appendChild(new_elem);
     }
 }
